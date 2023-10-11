@@ -1,0 +1,2 @@
+This is an example Git file. 
+One file was added a little while ago. 
